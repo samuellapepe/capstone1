@@ -1,10 +1,10 @@
-## Sistem Perpustakaan AYES 
+# Sistem Perpustakaan AYES 
 
-# Deskripsi
+## Deskripsi
 
 Sistem Perpustakaan AYES adalah program berbasis Python untuk mengelola koleksi buku di perpustakaan. Program ini memungkinkan pengguna untuk login sebagai admin atau peminjam, mencari buku, meminjam buku, mengembalikan buku, serta menambah atau menghapus buku dari koleksi.
 
-# Fitur Utama
+## Fitur Utama
 
 Login Pengguna
 
