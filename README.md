@@ -1,2 +1,2 @@
-# capstone1
+# 📚 Perpustakaan Digital
 Tempat Pengumpulan Capstone 1
