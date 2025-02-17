@@ -53,24 +53,24 @@ Sistem Perpustakaan AYES adalah program berbasis Python untuk mengelola koleksi 
 ## Struktur Data
 
     
-    * koleksiBuku: Dictionary yang menyimpan data buku dengan format {ID: {title, author, genre, year}}
+* koleksiBuku: Dictionary yang menyimpan data buku dengan format {ID: {title, author, genre, year}}
 
-    * peminjamanBuku: Dictionary yang mencatat buku yang sedang dipinjam.
+* peminjamanBuku: Dictionary yang mencatat buku yang sedang dipinjam.
 
-    * akun_admin & akun_peminjam: Dictionary untuk autentikasi pengguna.
+* akun_admin & akun_peminjam: Dictionary untuk autentikasi pengguna.
 
 ## Catatan Tambahan
 
-    * Admin dapat menghapus buku hanya jika buku tersebut tidak sedang dipinjam.
+* Admin dapat menghapus buku hanya jika buku tersebut tidak sedang dipinjam.
 
-    * Peminjam harus memasukkan tanggal dalam format YYYY-MM-DD saat meminjam atau mengembalikan buku.
+* Peminjam harus memasukkan tanggal dalam format YYYY-MM-DD saat meminjam atau mengembalikan buku.
 
-    * Denda keterlambatan dihitung sebesar Rp10.000 per hari keterlambatan.
+* Denda keterlambatan dihitung sebesar Rp10.000 per hari keterlambatan.
 
 ## Kontributor
 
-    Dikembangkan oleh Tim AYES Library Management.
+Dikembangkan oleh Tim AYES Library Management.
 
 ## Lisensi
 
-   Program ini merupakan projek Bootcamp JCDS 2804 Purwadhika.
+Program ini merupakan projek Bootcamp JCDS 2804 Purwadhika.
