@@ -76,7 +76,14 @@ Dikembangkan oleh Tim AYES Library Management.
 
 Program ini merupakan projek Bootcamp JCDS 2804 Purwadhika.
 
-![flowchart capstone-Main Menu drawio](https://github.com/user-attachments/assets/5fec7c54-be79-407c-9807-480f11c386ba)
+![flowchart capstone-Main Menu drawio](https://github.com/user-attachments/assets/85d8c753-22a6-4904-84e4-3dbef5ef25b1)
+![flowchart capstone-Read Menu drawio](https://github.com/user-attachments/assets/d2f4c7ee-f37c-4b00-8764-1aad1ccc793c)
+![flowchart capstone-update menu drawio](https://github.com/user-attachments/assets/451382cd-bdd1-40f1-90b3-8f1178240b75)
+![flowchart capstone-create menu drawio](https://github.com/user-attachments/assets/4003b7eb-0333-4a3b-8038-47520ba5a023)
+![flowchart capstone-delete menu drawio](https://github.com/user-attachments/assets/46409e0f-5539-46c7-b424-e90c98952afc)
+
+
+
 ![flowchart capstone-Read Menu drawio](https://github.com/user-attachments/assets/88f1737d-405d-497d-90c1-2d9388b4a37c)
 ![flowchart capstone-update menu drawio](https://github.com/user-attachments/assets/a3e7166f-ada0-4511-bc10-ead04351ca81)
 ![flowchart capstone-create menu drawio](https://github.com/user-attachments/assets/2adf19e5-cf15-405e-9d95-0c9f285387df)
