@@ -6,71 +6,71 @@ Sistem Perpustakaan AYES adalah program berbasis Python untuk mengelola koleksi 
 
 ## Fitur Utama
 
-Login Pengguna
+1. Login Pengguna
 
-Admin dapat mengelola koleksi buku dan peminjaman.
+    * Admin melakukan management perpustakaan dan dapat mengakses semua menu.
 
-Peminjam dapat mencari dan meminjam buku.
+    * *Peminjam hanya dapat melihat buku dan peminjaman dilkaukan pada Admin.
 
-Menampilkan Daftar Buku
+2. Menampilkan Daftar Buku
 
-Opsi untuk menampilkan semua buku atau mencari berdasarkan kategori tertentu (judul, penulis, genre, tahun).
+    * Opsi untuk menampilkan semua buku atau mencari berdasarkan kategori tertentu (judul, penulis, genre, tahun).
 
-Peminjaman Buku
+3. Peminjaman Buku
 
-Pengguna dapat meminjam buku dengan memasukkan judul dan informasi peminjaman.
+    * Pengguna dapat meminjam buku dan Admin akan mencatatnya dengan memasukkan judul dan informasi peminjaman.
 
-Sistem mencatat batas waktu pengembalian (7 hari).
+    * Sistem akan mencatat batas waktu pengembalian (7 hari).
 
-Pengembalian Buku
+4. Pengembalian Buku
 
-Pengguna dapat mengembalikan buku.
+    * Peminjam dapat mengembalikan buku kepada Admin.
 
-Sistem menghitung denda keterlambatan jika melebihi batas waktu pengembalian.
+    * Sistem menghitung denda keterlambatan jika melebihi batas waktu pengembalian dan peminjam akan dikenai denda sesuai dengan peraturan.
 
-Manajemen Buku (Admin)
+5. Manajemen Buku
 
-Admin dapat menambah dan menghapus buku dari koleksi.
+    * Admin dapat menambah dan menghapus buku dari koleksi.
 
-Instalasi dan Penggunaan
+## Instalasi dan Penggunaan
 
-Persyaratan
+1. Persyaratan
 
-Python 3.x
+    * Menggunakan bahasa pemrograman Python
 
-Modul tabulate (jika belum terinstal, gunakan perintah pip install tabulate)
+    * Modul tabulate (jika belum terinstal, gunakan perintah pip install tabulate) 
 
-Cara Menjalankan Program
+    * Modul datetime (jika belum terinstall, gunakan perintah pip install tabulate)
 
-Jalankan script Python:
+2. Cara Menjalankan Program
 
-python cobacoba6.py
+    * Jalankan script Python yang terlampir
 
-Pilih opsi login sebagai Admin atau Peminjam.
+    * Pilih opsi login sebagai Admin atau Peminjam dengan memasukkan username dan password.
 
-Ikuti instruksi dalam menu untuk menggunakan fitur yang tersedia.
+    * Ikuti instruksi dalam menu pada program untuk menggunakan fitur yang tersedia.
 
-Struktur Data
+## Struktur Data
 
-koleksiBuku: Dictionary yang menyimpan data buku dengan format {ID: {title, author, genre, year}}
+    
+    * koleksiBuku: Dictionary yang menyimpan data buku dengan format {ID: {title, author, genre, year}}
 
-peminjamanBuku: Dictionary yang mencatat buku yang sedang dipinjam.
+    * peminjamanBuku: Dictionary yang mencatat buku yang sedang dipinjam.
 
-akun_admin & akun_peminjam: Dictionary untuk autentikasi pengguna.
+    * akun_admin & akun_peminjam: Dictionary untuk autentikasi pengguna.
 
-Catatan Tambahan
+## Catatan Tambahan
 
-Admin dapat menghapus buku hanya jika buku tersebut tidak sedang dipinjam.
+    * Admin dapat menghapus buku hanya jika buku tersebut tidak sedang dipinjam.
 
-Peminjam harus memasukkan tanggal dalam format YYYY-MM-DD saat meminjam atau mengembalikan buku.
+    * Peminjam harus memasukkan tanggal dalam format YYYY-MM-DD saat meminjam atau mengembalikan buku.
 
-Denda keterlambatan dihitung sebesar Rp10.000 per hari keterlambatan.
+    * Denda keterlambatan dihitung sebesar Rp10.000 per hari keterlambatan.
 
-Kontributor
+## Kontributor
 
-Dikembangkan oleh Tim AYES Library Management.
+    Dikembangkan oleh Tim AYES Library Management.
 
-Lisensi
+## Lisensi
 
-Program ini bersifat open-source dan dapat dimodifikasi sesuai kebutuhan.
-
+   Program ini merupakan projek Bootcamp JCDS 2804 Purwadhika.
