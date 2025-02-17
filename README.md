@@ -81,10 +81,3 @@ Program ini merupakan projek Bootcamp JCDS 2804 Purwadhika.
 ![flowchart capstone-update menu drawio](https://github.com/user-attachments/assets/451382cd-bdd1-40f1-90b3-8f1178240b75)
 ![flowchart capstone-create menu drawio](https://github.com/user-attachments/assets/4003b7eb-0333-4a3b-8038-47520ba5a023)
 ![flowchart capstone-delete menu drawio](https://github.com/user-attachments/assets/46409e0f-5539-46c7-b424-e90c98952afc)
-
-
-
-![flowchart capstone-Read Menu drawio](https://github.com/user-attachments/assets/88f1737d-405d-497d-90c1-2d9388b4a37c)
-![flowchart capstone-update menu drawio](https://github.com/user-attachments/assets/a3e7166f-ada0-4511-bc10-ead04351ca81)
-![flowchart capstone-create menu drawio](https://github.com/user-attachments/assets/2adf19e5-cf15-405e-9d95-0c9f285387df)
-![flowchart capstone-delete menu drawio](https://github.com/user-attachments/assets/80bb0bdb-5f57-471a-b5b4-36e2137415e7)
